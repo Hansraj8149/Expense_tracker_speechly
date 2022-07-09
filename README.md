@@ -1,3 +1,5 @@
 The app Preview Link:- https://expensetrackerspeechlyapp.netlify.app/
-![Screenshot (11)](https://user-images.githubusercontent.com/91865531/178095283-6e092e60-27c2-4196-a8fc-666974352c19.png)
 
+
+
+![Screenshot (12)](https://user-images.githubusercontent.com/91865531/178095394-f4637f96-7af4-4553-b7b7-a2eb84490aa9.png)
